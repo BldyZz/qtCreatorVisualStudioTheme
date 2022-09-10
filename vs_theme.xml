@@ -30,7 +30,7 @@
   <style name="Function" foreground="#dcdcdc" background="#1e1e1e"/>
   <style name="Keyword" foreground="#569cd6" background="#1e1e1e"/>
   <style name="PrimitiveType" foreground="#569cd6" background="#1e1e1e"/>
-  <style name="Operator" foreground="#dcdcdc" background="#1e1e1e"/>
+  <style name="Operator" foreground="#569cd6" background="#1e1e1e"/>
   <style name="Overloaded Operator" foreground="#00677c"/>
   <style name="Punctuation"/>
   <style name="Preprocessor" foreground="#9b9b9b" background="#1e1e1e"/>
